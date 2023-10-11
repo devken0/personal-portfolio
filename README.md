@@ -1,2 +1,2 @@
 # personal-portfolio-v2
-Activity 2: Personal Portfolio Using HTML and CSS
+WEB DEVELOPMENT Activity 2: Personal Portfolio Using HTML and CSS
